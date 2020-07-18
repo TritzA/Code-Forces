@@ -1,5 +1,5 @@
 # https://codeforces.com/problemset/problem/4/A
-w = int(input())
+p = int(input())
 
 
 def separation(nb):
@@ -10,4 +10,4 @@ def separation(nb):
     return "NO"
 
 
-print(separation(w))
+print(separation(p))
