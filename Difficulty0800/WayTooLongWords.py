@@ -9,9 +9,5 @@ def trop_long(mot):
     return mot
 
 
-banque = []
 for _ in range(n):
-    banque.append(input())
-
-for mot in banque:
-    print(trop_long(mot))
+    print(trop_long(input()))
