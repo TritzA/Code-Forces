@@ -1,4 +1,4 @@
-# CodeForces
+# Code-Forces
 
 Solutions des problèmes de Codeforces (plus de 10 résolus).
 
